@@ -34,6 +34,10 @@
         "*!(.(t|j)s?(x)).(?(s)css|less|html|json|md?(x)|y?(a)ml)": [
             "prettier --write",
             "git add"
+        ],
+        ".clang-format": [
+            "prettier --parser yaml --write",
+            "git add"
         ]
     }
 }
