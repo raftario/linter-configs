@@ -35,6 +35,7 @@ SpaceAfterLogicalNot: false
 SpaceAfterTemplateKeyword: false
 SpaceBeforeCpp11BracedList: true
 SpaceInEmptyBlock: false
+Standard: Cpp11
 TabWidth: 4
 ---
 
